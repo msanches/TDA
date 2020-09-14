@@ -1,4 +1,4 @@
-Algoritmo valorPagar
+algoritmo valorPagar
 	inicio
 		real vcompra, valorjuros
 		inteiro parcela
