@@ -27,7 +27,7 @@
             <Keywords name="Keywords1">algoritmo &#x000D;&#x000A;fim &#x000D;&#x000A;inicio</Keywords>
             <Keywords name="Keywords2">se&#x000D;&#x000A;sen&#x00E3;o&#x000D;&#x000A;escolha&#x000D;&#x000A;enquanto&#x000D;&#x000A;fa&#x00E7;a&#x000D;&#x000A;repita&#x000D;&#x000A;senao&#x000D;&#x000A;continue&#x000D;&#x000A;para</Keywords>
             <Keywords name="Keywords3">ou &#x000D;&#x000A;e &#x000D;&#x000A;n&#x00E3;o</Keywords>
-            <Keywords name="Keywords4">inteiro&#x000D;&#x000A;real&#x000D;&#x000A;literal&#x000D;&#x000A;real&#x000D;&#x000A;void</Keywords>
+            <Keywords name="Keywords4">inteiro&#x000D;&#x000A;real&#x000D;&#x000A;literal&#x000D;&#x000A;real&#x000D;&#x000A;void&#x000D;&#x000A;logico&#x000D;&#x000A;l&#x00F3;gico</Keywords>
             <Keywords name="Keywords5">caso&#x000D;&#x000A;pare&#x000D;&#x000A;padr&#x00E3;o&#x000D;&#x000A;padrao:&#x000D;&#x000A;padrao&#x000D;&#x000A;padr&#x00E3;o:</Keywords>
             <Keywords name="Keywords6">escreva&#x000D;&#x000A;leia&#x000D;&#x000A;retorne</Keywords>
             <Keywords name="Keywords7"></Keywords>
