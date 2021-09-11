@@ -10,3 +10,4 @@ Repositório de exemplos e exercícios da disciplina de Técnicas de Desenvolvim
 * **Aula 01:** Apresentação e conceitos gerais sobre algoritmos
 * **Aula 02:** Algoritmos: variáveis, entrada e saída
 * **Aula 03:** Métodos
+* **Aula 04:** Exercícios
