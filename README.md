@@ -11,3 +11,5 @@ Repositório de exemplos e exercícios da disciplina de Técnicas de Desenvolvim
 * **Aula 02:** Algoritmos: variáveis, entrada e saída
 * **Aula 03:** Métodos
 * **Aula 04:** Exercícios
+* **Aula 05:** Estruturas de decisão
+
