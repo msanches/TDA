@@ -13,4 +13,3 @@ Repositório de exemplos e exercícios da disciplina de Técnicas de Desenvolvim
 * **Aula 04:** Exercícios
 * **Aula 05:** Estruturas de decisão
 * **Aula 06:** Escolha caso e métodos com decisão
-
