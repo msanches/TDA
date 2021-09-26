@@ -1,26 +1,18 @@
-algoritmo triangulo
-real a,b,c
-inicio
-    escreva ("Entre com o valor de a: ")
-    leia (a)
-    escreva ("Entre com o valor de b: ")
-    leia (b)
-    escreva ("Entre com o valor de c: ")
-    leia (c)
-    se (((a<(b+c)) e (b<(a+c)) e (c<(a+b))) {
-        escreva("Os lados formam um triângulo")
-    se((a==b) e (b==c)){
-       escreva("Equilátero")
-    }
-    senão { 
-        se((a==b) ou (b==c) ou (a == c)){
-           escreva("Isósceles")
-         }
-         senão{
-           escreva("Escaleno")
-         }
-     }
-    senão{
-        escreva("Os lados não formam um triângulo")
-    }
-fim
+algoritmo hospedagem
+	inteiro qtDiarias
+	caractere tipo
+	inicio
+		escreva ("Digite a quantidade de diárias: ")
+		leia (qtDiarias)
+		escreva ("Digite o tipo de hospedagem:\n[S]imples\n[D]upla\n[T]ripla")
+		leia (tipo)
+		se(tipo == 's' ou tipo == 'S')
+			escreva("Valor a pagar: R$" + (qtDiarias * 255.50))
+		senao se(tipo == 'd' ou tipo == 'D')
+			escreva("Valor a pagar: R$" + (qtDiarias * 305.50))
+		senao se(tipo == 't' ou tipo == 'T')
+			escreva("Valor a pagar: R$" + (qtDiarias * 360.50))
+		senao
+			escreva("Tipo de hospedagem inválido")
+	fim
+
