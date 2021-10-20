@@ -1,6 +1,8 @@
 # TÉCNICAS DE DESENVOLVIMENTO DE ALGORITMOS
 
 ## Universidade Cruzeiro do Sul.
+### Ciência da Computação
+### Análise de Sistemas
 
 Repositório de exemplos e exercícios da disciplina de Técnicas de Desenvolvimento de Algoritmos
 
