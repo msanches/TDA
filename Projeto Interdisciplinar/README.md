@@ -4,6 +4,6 @@
 
 #### Projeto Interdisciplinar - Concessionária de veículos
 
-![](http://dwebkit.esy.es/repositorio/img/tela1.jpg)
-![](http://dwebkit.esy.es/repositorio/img/tela2.jpg)
-![](http://dwebkit.esy.es/repositorio/img/tela3.jpg)
+![](http://dwebkit.esy.es/repositorio/img/tela1.JPG)
+![](http://dwebkit.esy.es/repositorio/img/tela2.JPG)
+![](http://dwebkit.esy.es/repositorio/img/tela3.JPG)
