@@ -16,3 +16,6 @@
 * **Aula 07:** Estruturas de repetição
 * **Aula 08:** Exercícios
 * **Aula 09:** Vetores
+* **Aula 10:** Projeto
+* **Aula 11:** Matrizes
+* **Aula 12:** Exercícios
