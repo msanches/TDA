@@ -8,7 +8,7 @@
 
 ### Conteúdos de aula:
 * **Aula 01:** Apresentação e conceitos gerais sobre algoritmos
-* **Aula 02:** Algoritmos: variáveis, entrada e saída
+* **[Aula 02:](https://github.com/msanches/TDA/tree/master/Aula%2002)** Algoritmos: variáveis, entrada e saída
 * **Aula 03:** Métodos
 * **Aula 04:** Exercícios
 * **Aula 05:** Estruturas de decisão
