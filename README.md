@@ -16,6 +16,6 @@
 * **[Aula 07:](https://github.com/msanches/TDA/tree/master/Aula%2007)** Estruturas de repetição
 * **[Aula 08:](https://github.com/msanches/TDA/tree/master/Aula%2008)** Exercícios
 * **[Aula 09:](https://github.com/msanches/TDA/tree/master/Aula%2009)** Vetores
-* **[Aula 10:](https://github.com/msanches/TDA/tree/master/Aula%2010)** Projeto
+* **Aula 10:** Projeto
 * **[Aula 11:](https://github.com/msanches/TDA/tree/master/Aula%2011)** Matrizes
 * **[Aula 12:](https://github.com/msanches/TDA/tree/master/Aula%2012)** Exercícios
