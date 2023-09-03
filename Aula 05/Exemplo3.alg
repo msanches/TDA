@@ -1,15 +1,12 @@
-algoritmo media
-    inicio
-        real n1, n2, m
-        escreva("Digite a nota 1")
-        leia(n1)
-        escreva("Digite a nota 2")
-        leia(n2)
-        m = (n1+n2)/2
-        se(m >= 6){
-                escreva("Aprovado") 
+algoritmo exemplo3
+    real num, soma
+    inteiro i
+    início
+        soma = 0
+        para(i=1; i<=10; i++){
+            escreva("Digite um número real: ")
+            leia(num)
+            soma = soma + num
         }
-        senão{
-                escreva("Reprovado")
-        }   
+        escreva("A soma dos números digitados é: " + soma)
     fim

@@ -1,16 +1,12 @@
-algoritmo exemplo2 
-   caractere msg
-   inteiro n
-    início
-    escreva ("Digite um número: ")
-    leia (n)
-    escreva ("Digite um texto: ")
-    leia (msg)
-    exibirMensagem(msg,n)
-    fim
-
-void exibirMensagem(caractere texto, inteiro num)
-    inicio
-        escreva ("Mensagem: " + texto + " número"+ num)
-    fim
-
+algoritmo idade_maior
+início
+	inteiro idade
+	escreva ("Digite sua idade")
+	leia (idade)
+	se (idade >= 18) { 
+		escreva ("Maior de idade")
+  	}
+	senão {
+		escreva ("Menor de idade")
+	}
+fim

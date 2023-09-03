@@ -1,17 +1,15 @@
-algoritmo Principal
-início
-     real base, altura   
-     escreva("Qual a base?")
-     leia(base)
-     escreva("Qual a altura?")
-     leia(altura) 
-     escreva("Área "  + calculaAreaTriangulo(base, altura))
-     escreva("Área "  + calculaAreaTriangulo(27.5, 44.5))
-fim
-
-real calculaAreaTriangulo(real base, real altura) {
-     real area
-     area = base * altura / 2
-     retorne (area)
-}
-
+algoritmo media
+    inicio
+        real n1, n2, m
+        escreva("Digite a nota 1")
+        leia(n1)
+        escreva("Digite a nota 2")
+        leia(n2)
+        m = (n1+n2)/2
+        se(m >= 6){
+                escreva("Aprovado") 
+        }
+        senão{
+                escreva("Reprovado")
+        }   
+    fim

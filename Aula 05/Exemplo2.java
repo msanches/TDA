@@ -1,16 +1,15 @@
-//Exemplo1: programa que obtém a idade e mostra 
-// se a pessoa é maior ou menor de idade
 import java.util.Scanner;
+
 public class Exemplo2 {
-	public static void main(String[] args) {
+    public static void main(String[] args) {
+        int num;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Digite sua idade:");
-        int x = sc.nextInt();
-        if(x >=18){
-            System.out.println("Maior de idade");
-        } else {
-             System.out.println("Menor de idade");
-        }
+        System.out.println("Digite um número: ");
+        num = sc.nextInt();
         sc.close();
+        for(int i=0; i<=10; i++){
+            System.out.println(num + " x " + i + " = " + num*i);
+            System.out.println();
+        }
     }
 }

@@ -1,15 +1,10 @@
-algoritmo somarDoisValores
-    real x,y
-    início
-        escreva ("Entre com o 1º valor:")
-        leia (x)
-        escreva ("Entre com o 2º valor:")
-        leia (y)
-        escreva ("A soma é " + somaDoisValores (x, y))
-    fim 
-
-real somaDoisValores (real a, real b)
-    inicio
-        retorne a+b
-    fim
+algoritmo par    
+inicio
+    inteiro num    
+    escreva ("Digite um número inteiro")
+    leia (num)
+    se (num%2==0) {
+        escreva ("O número: " + num + "é par!")
+    }
+fim
 

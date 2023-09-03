@@ -1,16 +1,16 @@
-algoritmo tabuada
-    inteiro num, i
+algoritmo exemplo2 
+   caractere msg
+   inteiro n
     início
-        escreva("Digite um valor para a tabuada: ")
-        leia(num)
-        para(i = 0; i <=10; i = i+1)
-            escreva(num + "x" + i + "=" + num*i)
+    escreva ("Digite um número: ")
+    leia (n)
+    escreva ("Digite um texto: ")
+    leia (msg)
+    exibirMensagem(msg,n)
     fim
 
-/*Teste de mesa
-Digite um valor para a tabuada: 5
-5 x 0 = 0
-5 x 1 = 5
-5 x 2 = 10
-...
-5 x 10 = 50
+void exibirMensagem(caractere texto, inteiro num)
+    inicio
+        escreva ("Mensagem: " + texto + " número"+ num)
+    fim
+

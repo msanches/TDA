@@ -1,9 +1,7 @@
-# Exemplo: programa Python que utiliza uma função.
-# A função somaDoisValores deve ser declarada antes de ser chamada.
-def somaDoisValores(a,b):
-    result = a + b
-    return result
+# Exemplo1: programa que solicita um número 
+# inteiro ao usuário e mostre-o caso 
+# o mesmo seja par.
 
-x = float(input("Digite o primeiro valor: "))
-y = float(input("Digite o segundo valor: "))
-print("A soma dos valores é: ", somaDoisValores(x, y))
+num = int(input("Entre com um número inteiro"))
+if num % 2 == 0:
+    print("O número: ", num , " é par.")

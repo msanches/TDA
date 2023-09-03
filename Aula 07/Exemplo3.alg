@@ -1,12 +1,17 @@
-algoritmo exemplo3
-    real num, soma
-    inteiro i
-    início
-        soma = 0
-        para(i=1; i<=10; i++){
-            escreva("Digite um número real: ")
-            leia(num)
-            soma = soma + num
-        }
-        escreva("A soma dos números digitados é: " + soma)
-    fim
+algoritmo Principal
+início
+     real base, altura   
+     escreva("Qual a base?")
+     leia(base)
+     escreva("Qual a altura?")
+     leia(altura) 
+     escreva("Área "  + calculaAreaTriangulo(base, altura))
+     escreva("Área "  + calculaAreaTriangulo(27.5, 44.5))
+fim
+
+real calculaAreaTriangulo(real base, real altura) {
+     real area
+     area = base * altura / 2
+     retorne (area)
+}
+

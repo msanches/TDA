@@ -1,24 +1,20 @@
-algoritmo media
-inicio
-    real peso, altura, imc
-        escreva ("Digite o seu peso")
-        leia (peso)
-        escreva("Digite a sua altura")
-        leia(altura)
-        imc=peso/(altura*altura)
-    se (imc < 20){
-        escreva ("Abaixo do peso")
-    }
-    senão se (imc < 25){
-        escreva ("Peso normal")
-    }
-    senão se (imc < 30){
-        escreva ("Sobrepeso")
-    }
-    senão se (imc < 40){
-        escreva ("Obeso")
-    }
-    senão{
-        escreva("Obeso Mórbido")
-    }
-fim
+algoritmo exemplo5
+    real num, media, soma
+    inteiro qtNum
+    caractere resp
+    início
+        resp = 's'
+        soma = 0
+        qtNum = 0
+        enquanto(resp == 's' ou resp =='S'){
+            escreva("Digite um número: ")
+            leia(num)
+            soma = soma + num
+            qtNum++
+
+            escreva("Deseja continuar? s/n")
+            leia(resp)
+        }
+        media = soma/qtNum
+        escreva("A média dos números digitados é: " + media)
+    fim
