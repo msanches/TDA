@@ -9,22 +9,21 @@ início
 
 	escolha (qtdeParcelas) {
 		caso 2: juros = 3
-			pare
+		pare
 		caso 4: juros = 7
-			pare
+		pare
 		caso 6: juros = 9
-			pare		  
+		pare		  
 		caso 8: juros = 12
-			pare                
+		pare                
 		padrão: juros = -1
 	}
 	
 	se(juros == -1) {
 		escreva ("Número de Parcelas incorreto")
-					}
-		senão{
+	} senão{
 			valorFinal = valorCompra + valorCompra * juros / 100
 			valorParcelado = valorFinal/qtdeParcelas
 			Escreva ("O valor de cada parcela é " + valorParcelado)
-		}
+			}
 fim

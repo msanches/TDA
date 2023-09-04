@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const op = prompt("[S] Simples\n[D] Duplo\n[T] Triplo\nDigite uma opção:");
+        const qtD = Number(prompt("Qual a quantidade de diárias? "));
+
+        if(op == "S" || op == "s"){
+            alert("Total a pagar: R$" + qtD * 255.50);
+        } else if(op == "D" || op == "d"){
+            alert("Total a pagar: R$" + qtD * 305.50);
+        } else if(op == "T" || op == "t"){
+            alert("Total a pagar: R$" + qtD * 350.50);
+        } else {
+            alert("Opção inválida!!!")
+        }
+    </script>
+</body>
+</html>
