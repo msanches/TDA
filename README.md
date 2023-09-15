@@ -10,14 +10,14 @@
 * **[Aula 03:](https://github.com/msanches/TDA/tree/master/Aula%2003)** Estruturas de decisão
 * **[Aula 04:](https://github.com/msanches/TDA/tree/master/Aula%2004)** Escolha caso
 * **[Aula 05:](https://github.com/msanches/TDA/tree/master/Aula%2005)** Estruturas de repetição
-* **[Aula 06:]()** Exercícios
+<!--* **[Aula 06:]()** Exercícios
 * **[Aula 07:]()** Métodos
 * **[Aula 08:]()** Exercícios
 * **[Aula 09:]()** Vetores
 * **[Aula 10:]()** Projeto
 * **[Aula 11:]()** Matrizes
 * **[Aula 12:]()** Exercícios
-
+-->
 ## Materiais complementares:
 * **[Notepad++:](https://github.com/msanches/TDA/tree/master/Notepad%2B%2B%20(Formata%C3%A7%C3%A3o%20TDA))** Formatação e regras de utilização
 * **[VsCode:](https://github.com/msanches/TDA/tree/master/VSCode%20(Formata%C3%A7%C3%A3o%20TDA))** Formatação e regras de utilização
