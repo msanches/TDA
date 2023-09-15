@@ -24,5 +24,6 @@
 * **[Apostila de Python](https://github.com/msanches/TDA/blob/master/Apostila%20Phyton.pdf)**
 * **[Ambiente Java:](https://github.com/msanches/TDA/blob/master/Como%20configurar%20o%20ambiente%20de%20desenvolvimento%20Java.pdf)** Como configurar o ambiente de desenvolvimento Java
 * **[Projeto interdisciplinar:](https://github.com/msanches/TDA/tree/master/Projeto%20Interdisciplinar)** Exemplo de aplicação simples com POO / Java
-
+* **[Laboratório de Des. Algoritmos com Java:](https://github.com/msanches/LDA)** Repositório LDA / Java
+* 
 Professor Marco Antonio
