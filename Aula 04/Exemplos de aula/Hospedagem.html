@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const qtD = Number(prompt("Qual a quantidade de dias? "));
+        const op = prompt("[S] Simples\n[D] Duplo\n[T] Triplo\nQual o tipo de hopedagem? ");
+
+        if(op == 'S' || op == 's'){
+            document.write(`O valor total é de R$ ${qtD * 255.50}`);
+            alert(`O valor total é de R$ ${qtD * 255.50}`);
+        } else if(op == 'D' || op == 'd'){
+            document.write(`O valor total é de R$ ${qtD * 305.50}`);
+            alert(`O valor total é de R$ ${qtD * 305.50}`);
+        } else if(op == 'T' || op == 't'){
+            document.write(`O valor total é de R$ ${qtD * 360.50}`);
+            alert(`O valor total é de R$ ${qtD * 360.50}`);
+        } else{
+            alert("Tipo de hospedagem inválido!!!!")
+        }
+    </script>
+</body>
+</html>

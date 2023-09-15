@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="tabuada"></div>
+    <script>
+        const num = Number(prompt("Digite um número inteiro: "));
+        const tabuada = document.querySelector(".tabuada");
+        let result = "";
+
+        result += `<h3>Tabuada do ${num}</h3>`;
+        for(i = 0; i<=10; i++){
+            result += `${num} * ${i} = ${num*i}<br>`;
+        }
+        //document.write(result);
+        tabuada.innerHTML = result;
+    </script>
+</body>
+</html>
