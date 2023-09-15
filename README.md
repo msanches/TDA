@@ -4,13 +4,13 @@
 ### Repositório de exemplos e exercícios da disciplina de Técnicas de Desenvolvimento de Algoritmos
 <img src="http://dwebkit.esy.es/repositorio/img/pseudoc%C3%B3digo%20%28Personalizado%29.jpg" width= 100px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= 100px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 100px/>
 
-
+https://github.com/msanches/TDA/tree/master/Aula%2003
 ## Conteúdos de aula:
 * **Aula 01:** Apresentação e conceitos gerais sobre algoritmos
 * **[Aula 02:](https://github.com/msanches/TDA/tree/master/Aula%2002)** Algoritmos: variáveis, entrada e saída
-* **[Aula 03:](https://github.com/msanches/TDA/tree/master/Aula%2005)** Estruturas de decisão
-* **[Aula 04:](https://github.com/msanches/TDA/tree/master/Aula%2006)** Escolha caso
-* **[Aula 05:]()** Estruturas de repetição
+* **[Aula 03:](https://github.com/msanches/TDA/tree/master/Aula%2003)** Estruturas de decisão
+* **[Aula 04:](https://github.com/msanches/TDA/tree/master/Aula%2004)** Escolha caso
+* **[Aula 05:](https://github.com/msanches/TDA/tree/master/Aula%2005)** Estruturas de repetição
 * **[Aula 06:]()** Exercícios
 * **[Aula 07:]()** Métodos
 * **[Aula 08:]()** Exercícios
