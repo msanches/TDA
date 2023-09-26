@@ -10,6 +10,8 @@
 * **[Aula 03:](https://github.com/msanches/TDA/tree/master/Aula%2003)** Estruturas de decisão
 * **[Aula 04:](https://github.com/msanches/TDA/tree/master/Aula%2004)** Escolha caso
 * **[Aula 05:](https://github.com/msanches/TDA/tree/master/Aula%2005)** Estruturas de repetição
+* **[Aula 06:](https://github.com/msanches/TDA/tree/master/Aula%2006)** Exercícios
+* **[Aula 07:](https://github.com/msanches/TDA/tree/master/Aula%2007)** Métodos
 <!--* **[Aula 06:]()** Exercícios
 * **[Aula 07:]()** Métodos
 * **[Aula 08:]()** Exercícios
