@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        const perguntas = ["Telefonou para a vítima", 
+                            "Esteve no local do crime", 
+                            "Mora perto da vítima", 
+                            "Devia $$ para a vítima", 
+                            "Já trabalhou com a vítima"];
+        let cont = 0;
+        for(let i=0; i<5; i++){
+            let resp = prompt(perguntas[i]).toLowerCase();
+            if(resp == 's')
+                cont++;
+        }
+        if(cont == 2)
+            alert("Você é suspeito");
+        else if(cont == 3 || cont == 4)
+            alert("Você é cúmplice");
+        else if(cont == 5)
+            alert("Você é assassino");
+        else
+            alert("Você é inocente");
+    </script>
+</body>
+</html>
