@@ -12,12 +12,15 @@
 * **[Aula 05:](https://github.com/msanches/TDA/tree/master/Aula%2005)** Estruturas de repetição
 * **[Aula 06:](https://github.com/msanches/TDA/tree/master/Aula%2006)** Exercícios
 * **[Aula 07:](https://github.com/msanches/TDA/tree/master/Aula%2007)** Métodos
-<!--* **[Aula 06:]()** Exercícios
+* **[Aula 08:](https://github.com/msanches/TDA/tree/master/Aula%2008)** Exercícios
+* **[Aula 09:](https://github.com/msanches/TDA/tree/master/Aula%2009)** Vetores
+* **[Aula 13:](https://github.com/msanches/TDA/tree/master/Aula%2013)** Matrizes
+<!-
 * **[Aula 07:]()** Métodos
 * **[Aula 08:]()** Exercícios
-* **[Aula 09:]()** Vetores
+
 * **[Aula 10:]()** Projeto
-* **[Aula 11:]()** Matrizes
+
 * **[Aula 12:]()** Exercícios
 -->
 ## Materiais complementares:
