@@ -15,14 +15,12 @@
 * **[Aula 08:](https://github.com/msanches/TDA/tree/master/Aula%2008)** Exercícios
 * **[Aula 09:](https://github.com/msanches/TDA/tree/master/Aula%2009)** Vetores
 * **[Aula 13:](https://github.com/msanches/TDA/tree/master/Aula%2013)** Matrizes
-<!-
-* **[Aula 07:]()** Métodos
+<!-* **[Aula 07:]()** Métodos
 * **[Aula 08:]()** Exercícios
 
 * **[Aula 10:]()** Projeto
 
-* **[Aula 12:]()** Exercícios
--->
+* **[Aula 12:]()** Exercícios -->
 ## Materiais complementares:
 * **[Notepad++:](https://github.com/msanches/TDA/tree/master/Notepad%2B%2B%20(Formata%C3%A7%C3%A3o%20TDA))** Formatação e regras de utilização
 * **[VsCode:](https://github.com/msanches/TDA/tree/master/VSCode%20(Formata%C3%A7%C3%A3o%20TDA))** Formatação e regras de utilização
